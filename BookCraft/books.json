@@ -1,0 +1,92 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": ["Harper Lee"],
+        "image": "booksimg/mock.jpg",
+        "genre": "Fiction"
+    },
+    {
+        "title": "1984",
+        "author": ["George Orwell"],
+        "image": "booksimg/1984.jpg",
+        "genre": "Fiction"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": ["F. Scott Fitzgerald"],
+        "image": "booksimg/gatsby.jpg",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": ["Yuval Noah Harari"],
+        "image": "booksimg/sap.jpg",
+        "genre": "Non-fiction"
+    },
+    {
+        "title": "Educated",
+        "author": ["Tara Westover"],
+        "image": "booksimg/educ.webp",
+        "genre": "Non-fiction"
+    },
+    {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": ["Rebecca Skloot"],
+        "image": "booksimg/immort.jpg",
+        "genre": "Non-fiction"
+    },
+    {
+        "title": "In Cold Blood",
+        "author": ["Truman Capote"],
+        "image": "booksimg/coldb.jpg",
+        "genre": "True-Crime"
+    },
+    {
+        "title": "The Devil in the White City",
+        "author": ["Erik Larson"],
+        "image": "booksimg/DWC.jpg",
+        "genre": "True-Crime"
+    },
+    {
+        "title": "I'll Be Gone in the Dark",
+        "author": ["Michelle McNamara"],
+        "image": "booksimg/dark.jpg",
+        "genre": "True-Crime"
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": ["Stieg Larsson"],
+        "image": "booksimg/drag.webp",
+        "genre": "Mystery"
+    },
+    {
+        "title": "Gone Girl",
+        "author": ["Gillian Flynn"],
+        "image": "booksimg/gone.jpg",
+        "genre": "Mystery"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": ["Dan Brown"],
+        "image": "booksimg/davinki.jpg",
+        "genre": "Mystery"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": ["Jane Austen"],
+        "image": "booksimg/pride.jpg",
+        "genre": "Romance"
+    },
+    {
+        "title": "Outlander",
+        "author": ["Diana Gabaldon"],
+        "image": "booksimg/outland.jpg",
+        "genre": "Romance"
+    },
+    {
+        "title": "Me Before You",
+        "author": ["Jojo Moyes"],
+        "image": "booksimg/mebefore.jpg",
+        "genre": "Romance"
+    }
+]
